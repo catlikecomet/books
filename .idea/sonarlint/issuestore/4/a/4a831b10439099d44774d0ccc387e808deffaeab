@@ -1,0 +1,9 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ó¯ü…8”ï½¿ê-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“”Ï¦8”ï½¿ê-
+[squid:S1854":Remove this useless assignment to local variable "emails".(Êç…óûÿÿÿÿ8™ÞÙ¿ê-
+esquid:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(Êç…óûÿÿÿÿ8Š‡ê¿ê-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²—š³ùÿÿÿÿ8è¿½¿ê-
+Usquid:S3725":Replace this with a call to the "toFile().exists()" method(ÄçÇ!8¹Ïí¿ê-
+Lsquid:S1481"+Remove this unused "emails" local variable.(Êç…óûÿÿÿÿ8éÚÛ¿ê-
+Esquid:S00108")Either remove or fill this block of code.(ÄçÇ!8¹Ïí¿ê-
