@@ -17,12 +17,11 @@ public class Main {
         BufferedReader read = new BufferedReader(new FileReader(fileName));
         List line = new ArrayList();
         List tableLine = new ArrayList();
-        String[] splitLine;
         String readLine;
 
         while((readLine = read.readLine()) !=null) {
-            splitLine = readLine.split(",");
-            line.add(splitLine);
+
+            line.add(tableLine);
 
         }
 
@@ -31,7 +30,6 @@ public class Main {
 
         }
         System.out.println(line.get(1));
-        System.out.println(splitLine);
 
 
         //reading the csv file into a stream
